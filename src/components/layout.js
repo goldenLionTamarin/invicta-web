@@ -41,7 +41,7 @@ const Layout = ({ children, location }) => {
           <Helmet
             title={data.site.siteMetadata.title}
             meta={[
-              { name: 'description', content: 'Invicta Serviços 24 em todo Rio de Janeiro' },
+              { name: 'description', content: 'Invicta Serviços 24 horas em todo Rio de Janeiro' },
               { name: 'keywords', content: 'Elétrica, Hidráulica, Gasista' },
             ]}
           >
