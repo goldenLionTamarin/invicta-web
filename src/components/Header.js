@@ -8,7 +8,7 @@ const Header = props => (
     </div>
     <div className="content">
       <div className="inner">
-        <h1>Elite Serviços 24 h</h1>
+        <h1>Invicta 24 h</h1>
         <p>Mais de 18 anos no mercado</p>
         <p>Trazendo qualidade e segurança para seu imóvel</p>
       </div>
