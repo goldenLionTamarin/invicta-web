@@ -9,11 +9,8 @@ const Header = props => (
     <div className="content">
       <div className="inner">
         <h1>Elite Serviços 24 h</h1>
-        <p>
-          Mais de 18 anos no mercado
-          <br />
-          Trazendo qualidade e segurança para seu imóvel
-        </p>
+        <p>Mais de 18 anos no mercado</p>
+        <p>Trazendo qualidade e segurança para seu imóvel</p>
       </div>
     </div>
     <nav>
