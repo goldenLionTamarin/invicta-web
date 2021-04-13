@@ -107,7 +107,7 @@ class Main extends React.Component {
           style={{ display: 'none' }}
         >
           <h2 className="major">Contato</h2>
-          <h3>Para maior agilidade, enetre em contato através dos nossos telefones</h3>
+          <h3>Para maior agilidade, entre em contato através dos nossos telefones</h3>
           <h3>📞2146-9420</h3><h3> 📞99325-3783</h3>
 
           <h3>Atendimento em todo Rio de Janeiro 24 horas!</h3>
